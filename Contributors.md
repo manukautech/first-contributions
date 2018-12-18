@@ -5641,6 +5641,7 @@ Tanishq Gupta
 - [Oikonomou Evangelos](https://github.com/DeadlyFrame))
 - [Josh Coles](https://github.com/joshcoles)
 - [Tim Sweeney](http://github.com/sweeneyt)
+- [John Calder](https://github.com/manukautech)
 - [Shawn Spears](http://github.com/shawnspears)
 - [Sarah Murphy](https://github.com/msarah)
 - [Matthew Chambers](https://github.com/mattchambers)
